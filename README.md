@@ -1,4 +1,9 @@
 # NgFundamentals
+Project created to practice for the course Angular Fundamentals
+
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
 
